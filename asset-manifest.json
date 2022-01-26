@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/photo-portfolio/static/css/main.db520e1d.css",
-    "main.js": "/photo-portfolio/static/js/main.8f9861b9.js",
+    "main.js": "/photo-portfolio/static/js/main.f542b67f.js",
     "static/js/787.3fe431ec.chunk.js": "/photo-portfolio/static/js/787.3fe431ec.chunk.js",
     "static/media/jan-kopriva-4ENFPMd4hUU-unsplash.jpg": "/photo-portfolio/static/media/jan-kopriva-4ENFPMd4hUU-unsplash.1c7e9fc589f6b3730404.jpg",
     "static/media/fabrice-villard-Jrl_UQcZqOc-unsplash.jpg": "/photo-portfolio/static/media/fabrice-villard-Jrl_UQcZqOc-unsplash.20e86d6975ece7f5d810.jpg",
@@ -9,11 +9,11 @@
     "static/media/adam-birkett-lkNa1eg2d18-unsplash.jpg": "/photo-portfolio/static/media/adam-birkett-lkNa1eg2d18-unsplash.036404eeedd4ca999e97.jpg",
     "index.html": "/photo-portfolio/index.html",
     "main.db520e1d.css.map": "/photo-portfolio/static/css/main.db520e1d.css.map",
-    "main.8f9861b9.js.map": "/photo-portfolio/static/js/main.8f9861b9.js.map",
+    "main.f542b67f.js.map": "/photo-portfolio/static/js/main.f542b67f.js.map",
     "787.3fe431ec.chunk.js.map": "/photo-portfolio/static/js/787.3fe431ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db520e1d.css",
-    "static/js/main.8f9861b9.js"
+    "static/js/main.f542b67f.js"
   ]
 }
