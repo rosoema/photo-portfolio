@@ -5,7 +5,14 @@ Fully responsive, four-page, website design for potential photographers wanting 
 
 Technologies used: HTML, CSS, React, jQuery.
 
+
 Photos of my work are below. 
 
 ## Desktop View
 ![Photo Portfolio](https://user-images.githubusercontent.com/98010825/151342092-4691004e-f276-4daa-8955-3760fcaac143.png)
+
+
+## Tablet View
+
+
+## Mobile Phone View
