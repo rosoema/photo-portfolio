@@ -13,6 +13,8 @@ Photos of my work are below.
 
 
 ## Tablet View
+![tablet-view](https://user-images.githubusercontent.com/98010825/151344629-9d2dff4c-2a85-459b-b957-28dc31e574d8.png)
+
 
 
 ## Mobile Phone View
