@@ -5,6 +5,8 @@ Fully responsive, four-page, website design for potential photographers wanting 
 
 Technologies used: HTML, CSS, React, jQuery.
 
+[Check it out](https://rosoema.github.io/photo-portfolio/)
+
 
 Photos of my work are below. 
 
